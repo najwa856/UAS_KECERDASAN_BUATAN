@@ -1,2 +1,7 @@
-# UAS_KECERDASAN_BUATAN
-Deskripsi Proyek  "Program ini adalah sistem penjadwalan otomatis berbasis Algoritma Genetika yang bertugas memetakan 24 mata kuliah ke ruang dan slot waktu secara optimal dengan meminimalkan konflik ruang, dosen-waktu, dan dosen-hari".
+## 👨‍🎓 Identitas Mahasiswa
+
+* **Nama Lengkap:** Najwa Shalsabila
+* **NIM:** 24146031
+* **Mata Kuliah:** Kecerdasan Buatan (SIF210)
+* **Tahun Ajaran:** Genap 2025/2026
+* **Dosen Pengampu:** Teuku Rizky Noviandy, S.Kom., M.Kom.
